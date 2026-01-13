@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-Completed the **42 Core curriculum** in March 2025! 🎉 The journey at 42 was incredible and I'm now focusing on new challenges and active development.
+Completed the **42 Core curriculum** in March 2025! 🎉 I used this repo throuhgout my entire journey. The journey at 42 was incredible and I'm now focusing on new challenges and active development.
 
 - 🔭 I'm currently working on new projects and exploring different technologies
 - 🎓 Graduated from 42 Core curriculum (March 2025)
