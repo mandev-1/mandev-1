@@ -45,8 +45,8 @@ Completed the **42 Core curriculum** in March 2025! 🎉 The journey at 42 was i
 - ✅ **Philosophers**
 - ✅ **Minishell**
 - ✅ **NetPractice**
-- ✅ **Exam Rank 03**
 - ✅ **Fractol**
+- ✅ **Exam Rank 03**
 - ✅ **MiniRT**
 - ✅ **Exam Rank 04**
 - ✅ **CPP Module 00-09**
@@ -81,6 +81,7 @@ Completed the **42 Core curriculum** in March 2025! 🎉 The journey at 42 was i
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![SAP UI5](https://img.shields.io/badge/SAP%20UI5-0070F2?style=for-the-badge&logo=sap&logoColor=white)
 
 </div>
 
